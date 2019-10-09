@@ -3,5 +3,9 @@ class Project
   
   def initialize
     @backers = [] 
+    @title = title 
   end
+  
+  def add_backer
+    
 end
